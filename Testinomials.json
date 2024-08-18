@@ -1,0 +1,145 @@
+{
+    "testimonials": [
+      {
+        "id": 1,
+        "author": "John Smith",
+        "location": "New York, USA",
+        "rating": 5,
+        "content": "Amazing experience! The service provided exceeded my expectations. I highly recommend it to everyone."
+      },
+      {
+        "id": 2,
+        "author": "Emily Johnson",
+        "location": "London, UK",
+        "rating": 4,
+        "content": "I'm very satisfied with the product. It's of high quality and exactly what I needed."
+      },
+      {
+        "id": 3,
+        "author": "David Lee",
+        "location": "Sydney, Australia",
+        "rating": 5,
+        "content": "Outstanding service! The team was responsive and professional. Will definitely use it again."
+      },
+      {
+        "id": 4,
+        "author": "Sophia Wang",
+        "location": "Shanghai, China",
+        "rating": 4,
+        "content": "I've been a customer for years and have never been disappointed. Keep up the good work!"
+      },
+      {
+        "id": 5,
+        "author": "Michael Garcia",
+        "location": "Los Angeles, USA",
+        "rating": 5,
+        "content": "Exceptional experience from start to finish. The support team was incredibly helpful and friendly."
+      },
+      {
+        "id": 6,
+        "author": "Ava Brown",
+        "location": "Toronto, Canada",
+        "rating": 4,
+        "content": "Great product and excellent customer service. Will definitely purchase again in the future."
+      },
+      {
+        "id": 7,
+        "author": "Liam Miller",
+        "location": "Dublin, Ireland",
+        "rating": 5,
+        "content": "I'm impressed with the quality of service provided. Highly recommend it to anyone looking for reliable service."
+      },
+      {
+        "id": 8,
+        "author": "Olivia Martinez",
+        "location": "Mexico City, Mexico",
+        "rating": 4,
+        "content": "The team went above and beyond to ensure my satisfaction. I couldn't be happier with the outcome."
+      },
+      {
+        "id": 9,
+        "author": "Ethan Kim",
+        "location": "Seoul, South Korea",
+        "rating": 5,
+        "content": "Fantastic experience! The product exceeded my expectations and arrived right on time."
+      },
+      {
+        "id": 10,
+        "author": "Emma Chen",
+        "location": "Shenzhen, China",
+        "rating": 4,
+        "content": "Very happy with my purchase. The product quality is excellent and the price is reasonable."
+      },
+      {
+        "id": 11,
+        "author": "Noah Wong",
+        "location": "Singapore",
+        "rating": 5,
+        "content": "Absolutely love it! The service was seamless and the product is of top-notch quality."
+      },
+      {
+        "id": 12,
+        "author": "Mia Nguyen",
+        "location": "Ho Chi Minh City, Vietnam",
+        "rating": 4,
+        "content": "Highly recommended! The team was professional and courteous throughout the process."
+      },
+      {
+        "id": 13,
+        "author": "Mia Nguyen",
+        "location": "Ho Chi Minh City, Vietnam",
+        "rating": 4,
+        "content": "Highly recommended! The team was professional and courteous throughout the process."
+        },
+        {
+        "id": 14,
+        "author": "William Smith",
+        "location": "Melbourne, Australia",
+        "rating": 5,
+        "content": "Great service! The product exceeded my expectations and the delivery was prompt."
+        },
+        {
+        "id": 15,
+        "author": "Isabella Taylor",
+        "location": "Paris, France",
+        "rating": 4,
+        "content": "Very impressed with the quality of service. The team was responsive and helpful."
+        },
+        {
+        "id": 16,
+        "author": "Alexander Martinez",
+        "location": "Berlin, Germany",
+        "rating": 5,
+        "content": "Excellent experience! The product was exactly as described and arrived in perfect condition."
+        },
+        {
+        "id": 17,
+        "author": "Charlotte Brown",
+        "location": "Rome, Italy",
+        "rating": 4,
+        "content": "I'm extremely satisfied with the service provided. Will definitely be a repeat customer."
+        },
+        {
+        "id": 18,
+        "author": "Lucas Gonzalez",
+        "location": "Madrid, Spain",
+        "rating": 5,
+        "content": "Fantastic service and product quality. Couldn't ask for more!"
+        },
+        {
+        "id": 19,
+        "author": "Sophie Wang",
+        "location": "Beijing, China",
+        "rating": 4,
+        "content": "Great value for money! The service was excellent and the product exceeded my expectations."
+        },
+        {
+        "id": 20,
+        "author": "Benjamin Lopez",
+        "location": "São Paulo, Brazil",
+        "rating": 5,
+        "content": "I'm very pleased with my experience. The team was professional and the product was of high quality."
+        }
+        ]
+        }
+  
